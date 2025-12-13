@@ -12,7 +12,7 @@ This repository documents my learning path in Data Science. It contains logic-bu
 
 ## 🛠 Tools Used
 - **Language:** Python 3.x
-- **IDE:** Jupyter Notebook / VS Code
+- **IDE:** Google Collab / VS Code
 - **Libraries:** Pandas, NumPy
 
 ## 🚀 Learning Goals
